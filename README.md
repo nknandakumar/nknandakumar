@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hey there! I'm Nanda Kumar M</h1>  
+><h1 align="center"><img src="https://img1.picmix.com/output/stamp/normal/6/8/1/0/2550186_93a1e.gif" alt="eyes" height="80"  />⚡ Hey there! I'm Nanda Kumar M</h1>  
+
+
 <h3 align="start">🎯 Turning caffeine into code and ideas into reality</h3>  
 <h3 align="start">🌟 | Full Stack Developer | 🎨🖌️Designer | 🧮Problem Solver</h3>  
 
@@ -18,8 +20,9 @@
 <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-css-3d-icon-download-in-png-blend-fbx-gltf-file-formats--open-source-framework-code-logos-and-brands-pack-icons-9325303.png" alt="tailwind css" width="70" height="70"/>
 
 🛠️ **Backend Wizardry**:  
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="nodejs" width="70" height="70"/>
+<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-nodejs-3d-icon-download-in-png-blend-fbx-gltf-file-formats--javascript-runtime-backend-node-js-logo-coding-lang-pack-logos-icons-7578002.png" alt="nodejs" width="70" height="70"/>
 <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/express-js-11217637-9200641.png?f=webp&w=128" alt="express.js" width="70" height="70"/>
+
 
 💾 **Database Heroes**:  
 <p align="start">
@@ -27,7 +30,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175121.png" alt="PostgreSQL" width="70" height="70"/>
 </p>
 
-🎮 ** Remaing Players **:  
+🎮 **Remaing Players**:  
 <img src="https://yt3.googleusercontent.com/rITjXEqrjdnwXIiCE1B9GFhZSMOwMQ5MA5GIXlEEP6z61LJOf6TBZdENtR0umLSEqtkdwlMxeA=s900-c-k-c0x00ffffff-no-rj" alt="js"  width="70" height="70" />
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-10-pack-icons-283024.png" alt="redux"  width="70" height="70" />
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png?f=webp&w=256" alt="postman"  width="70" height="70" />
@@ -42,28 +45,16 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="canva"    width="70" height="70" />
 
 
----
-
-### 🎉 **Projects I'm Proud Of**  
-📝 **BCA Resources App**: Helping students level up with notes & papers. 📚  
-
-🎮 **Truth or Dare Game**: Let the spinner decide your fate! 🎡  
-
-🌟 **My Portfolio**: A showcase of my design and dev journey. 🚀  
 
 ---
 
 ### 💡 **What’s New?**  
 - Learning **Next.js + TypeScript** for even cooler projects! 🧑‍💻  
-- Designing **drag-and-drop tools** because why not? ✨  
 
----
 
 ### 👀 **Fun Facts**  
-- I write code faster than my internet speed. ⚡  
 - My keyboard gets more workouts than I do. ⌨️💪  
-- I dream in **dark mode**. 🌙💻  
-- I speak fluently in **GIFs** and emojis. 🎉  
+- I dream in **dark mode**. 🌙💻    
 
 ---
 

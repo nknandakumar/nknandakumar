@@ -7,7 +7,7 @@
 ---
 
 - I **build** things that live on the internet. 🌐  
-- I **design** apps that ' Just looking a WOW... '. 🎨  
+- I **design** apps that ' Just looking like a WOW... '. 🎨  
 - I **solve** puzzles with code (and sometimes snacks). 🍫  
 
 ✨ **Code. Create. Repeat.**

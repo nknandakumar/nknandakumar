@@ -8,9 +8,6 @@
 
 - I **build** things that live on the internet. 🌐  
 - I **design** apps that ' Just looking like a WOW... '. 🎨  
-- I **solve** puzzles with code (and sometimes snacks). 🍫  
-
-✨ **Code. Create. Repeat.**
 
 ---
 
@@ -48,7 +45,7 @@
 
 ---
 
-### 💡 **What’s New?**  
+### 💡 **What’s Next?**  
 - Learning **Next.js + TypeScript** for even cooler projects! 🧑‍💻  
 
 

@@ -56,9 +56,9 @@
 ---
 
 ### ✨ **Let’s Be Friends**  
-🌐 [Visit My Portfolio](#)  
 📧 [Email Me](nandakamal567@gmail.com)  
-🤝 [Let’s Connect](https://www.linkedin.com/in/your-profile)  
+🤝 [Let’s Connect](https://www.linkedin.com/in/nanda-kumar-m-852411339/)  
+
 
 ---
 

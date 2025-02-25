@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nanda Kumar M</h1>
-<p align="center">🚀 Full Stack Web Developer | 💡 Problem Solver | 🎨 UI/UX Enthusiast</p>
+<p align="center">🚀 Full Stack Web Developer | 💡 Problem Solver </p>
 
 🔗 **Portfolio:** [nandakumarm.vercel.app](https://nandakumarm.vercel.app)
 
@@ -37,9 +37,21 @@
 ---
 
 # 📊 GitHub Stats:
+
+
+<table>
+<tr>
+<td>
 ![](https://github-readme-stats.vercel.app/api?username=nknandakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+</td>
+<td>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nknandakumar&theme=dark&hide_border=false)<br/>
+</td>
+<td>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nknandakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</td>
+</tr>
+</table>
 
 ### 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nknandakumar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)

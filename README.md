@@ -36,17 +36,10 @@
 
 ---
 
-## 📊 GitHub Stats:
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=nknandakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nknandakumar&theme=dark&hide_border=false" />
-</td>
-</tr>
-</table>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nknandakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nknandakumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nknandakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nknandakumar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)

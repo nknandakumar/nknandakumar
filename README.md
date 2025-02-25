@@ -35,20 +35,17 @@
 ![Canva](https://img.shields.io/badge/-Canva-%2300C4CC?logo=Canva&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-
-
+## 📊 GitHub Stats:
 <table>
 <tr>
 <td>
-![](https://github-readme-stats.vercel.app/api?username=nknandakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=nknandakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
 </td>
 <td>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nknandakumar&theme=dark&hide_border=false)<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nknandakumar&theme=dark&hide_border=false" />
 </td>
 <td>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nknandakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknandakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" height="100"/>
 </td>
 </tr>
 </table>

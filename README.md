@@ -114,10 +114,10 @@
     <strong>I'm passionate about creating meaningful web experiences and always open to collaborating on innovative projects.</strong>
   </p>
   <p>
-    <strong>🔍 Currently exploring: </strong> Advanced React Patterns, Web3, and Performance Optimization
+    <strong>🔍 Currently exploring: </strong> Advanced React Patterns, Next JS, and Performance Optimization
   </p>
   <p>
-    <strong>📫 How to reach me: </strong> <a href="mailto:nandakumar.m.dev@gmail.com">nandakumar.m.dev@gmail.com</a>
+    <strong>📫 How to reach me: </strong> <a href="https://www.linkedin.com/in/nandakumarm-/>Click Here</a>
   </p>
 </div>
 

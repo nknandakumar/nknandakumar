@@ -117,7 +117,7 @@
     <strong>🔍 Currently exploring: </strong> Advanced React Patterns, Next JS, and Performance Optimization
   </p>
   <p>
-    <strong>📫 How to reach me: </strong> <a href="https://www.linkedin.com/in/nandakumarm-/>Click Here</a>
+    <strong>📫 How to reach me: </strong> <a href="https://www.linkedin.com/in/nandakumarm-/">Click Here</a>
   </p>
 </div>
 

@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nanda Kumar M</h1>
+<h1 align="center"> Hi, I'm Nanda Kumar M</h1>
 <p align="center">🚀 Full Stack Web Developer | 💡 Problem Solver </p>
 
 🔗 **Portfolio:** [nandakumarm.vercel.app](https://nandakumarm.vercel.app)

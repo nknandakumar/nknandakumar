@@ -8,6 +8,11 @@
   </a>
 </div>
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</div>
+
 ### 👋 Hello there, fellow developers!
 
 I'm a **Passionate Full Stack Web Developer**  

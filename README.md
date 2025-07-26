@@ -15,8 +15,8 @@
 
 ### 👋 Hello there, fellow developers!
 
-I'm a **Passionate Full Stack Web Developer**  
-🚀 JavaScript | React | Node.js Enthusiast  | Problem Solver  
+I'm a **Full Stack Web Developer**  
+🚀 JavaScript | React | Node.js 
 🌱 Always exploring new tech and building meaningful web experiences
 
 ---

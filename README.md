@@ -9,17 +9,8 @@
 </div>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</div>
 
-### 👋 Hello there, fellow developers!
 
-I'm a **Full Stack Web Developer**  
-🚀 JavaScript | React | Node.js 
-🌱 Always exploring new tech and building meaningful web experiences
-
----
 
 
 <div align="center">

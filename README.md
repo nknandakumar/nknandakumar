@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://nandakumarm.vercel.app">
+  <a href="https://nandakumarm.framer.website">
     <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-8A2BE2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
 </div>

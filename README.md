@@ -1,131 +1,122 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=8A2BE2&text=Nanda%20Kumar%20M&textBg=false&fontAlign=52&animation=fadeIn&stroke=00000&desc=Full-stack%20Web%20Developer&descSize=40&descAlign=69&descAlignY=77&fontSize=91&fontColor=ffff&reversal=true" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=000000&text=Nanda%20Kumar%20M&textBg=false&fontAlign=50&animation=fadeIn&stroke=C7FF36&desc=Cloud%20Computing%20%7C%20Full-Stack%20Web%20Development&descSize=28&descAlign=50&descAlignY=77&fontSize=82&fontColor=FFFFFF&reversal=true" width="100%" />
 
-<div align="center">
-  <a href="https://nandakumarm.framer.website">
-    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-8A2BE2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+<br>
 
+<a href="https://nandakumarm.framer.website">
+  <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-C7FF36?style=for-the-badge&logo=safari&logoColor=000000" alt="Portfolio" />
+</a>
 
+<br><br>
 
+# 👋 Hi, I'm Nanda Kumar M
 
+I'm a **Full-Stack Web Developer** currently **learning Cloud Computing** and exploring how applications are deployed, managed, and scaled in cloud environments.
 
+### ☁️ Cloud Computing
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</div>
+Currently learning and exploring:
 
-<h2 align="center">🌐 Connect With Me 🌐</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/nanda-kumar-m-852411339/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/NandaKumarM_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/nandakumar__05/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:nandakumar.m.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+* Cloud fundamentals
+* Linux & server administration
+* Cloud infrastructure
+* Networking fundamentals
+* Cloud deployment
+* Containers & Docker
+* Cloud services
+* Application hosting and scalability
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</div>
+### 🌐 Full-Stack Web Development
 
-<h2 align="center">⚡ Technical Skills ⚡</h2>
+Technologies I currently work with:
 
-<h3 align="center">🚀 Languages & Frameworks</h3>
+**Frontend**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,express" /><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,bash,powershell,git,github" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
-<h3 align="center">🛠️ Tools & Platforms</h3>
+**Backend**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</div>
+**Database**
 
-<h2 align="center">📊 GitHub Analytics 📊</h2>
+<img src="https://skillicons.dev/icons?i=postgresql" />
 
-<div align="center">
-  <a href="https://github.com/nknandakumar">
-    <img src="https://github-stats-alpha.vercel.app/api?username=nknandakumar&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
-  </a>
-</div>
+**Development & Version Control**
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nknandakumar&theme=tokyonight" />
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,bash,powershell" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nknandakumar&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</div>
+### 🛠️ Tools & Platforms
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknandakumar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10" alt="Top Languages" />
-</div>
+<img src="https://skillicons.dev/icons?i=vscode,postman,vercel,netlify,canva" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nknandakumar&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
-</div>
+### 📚 Currently Learning
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</div>
+* Cloud Computing
+* Linux
+* Docker & Containers
+* Cloud Infrastructure
+* Networking
+* Cloud Deployment
+* Backend Architecture
 
-<h2 align="center">🔮 My Contributions 🔮</h2>
+<br>
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nknandakumar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&border_radius=10" />
-</div>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</div>
+# 📊 GitHub Analytics
 
-<h2 align="center">💡 Daily Dev Quote 💡</h2>
+<img src="https://github-stats-alpha.vercel.app/api?username=nknandakumar&cc=000000&tc=C7FF36&ic=FFFFFF&bc=000000" />
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+<br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nknandakumar&theme=github_dark" />
 
-<h2 align="center">🌟 Let's Collaborate 🌟</h2>
+<br>
 
-<div align="center">
-  <p>
-    <strong>I'm passionate about creating meaningful web experiences and always open to collaborating on innovative projects.</strong>
-  </p>
-  <p>
-    <strong>🔍 Currently exploring: </strong> Advanced React Patterns, Next JS, and Performance Optimization
-  </p>
-  <p>
-    <strong>📫 How to reach me: </strong> <a href="https://www.linkedin.com/in/nandakumarm-/">Click Here</a>
-  </p>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nknandakumar&theme=dark&hide_border=true&border_radius=10&ring=C7FF36&fire=C7FF36&currStreakLabel=C7FF36" />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nknandakumar&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</div>
+<br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknandakumar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10&title_color=C7FF36" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nknandakumar&theme=darkhub&no-frame=true&column=7&margin-w=15" />
+
+<br>
+
+# 🔮 Contributions
+
+<img src="https://github-contributor-stats.vercel.app/api?username=nknandakumar&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&border_radius=10" />
+
+<br>
+
+---
+
+# 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/nanda-kumar-m-852411339/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-C7FF36?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+</a>
+
+<a href="https://x.com/NandaKumarM_dev" target="_blank">
+  <img src="https://img.shields.io/badge/X-C7FF36?style=for-the-badge&logo=x&logoColor=000000" alt="X" />
+</a>
+
+<a href="https://www.instagram.com/nandakumar__05/" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-C7FF36?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram" />
+</a>
+
+<a href="mailto:nandakumar.m.dev@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-C7FF36?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" />
+</a>
+
+<br><br>
+
+<a href="https://nandakumarm.framer.website">
+  <img src="https://img.shields.io/badge/PORTFOLIO-C7FF36?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=nknandakumar&style=for-the-badge&color=C7FF36&label=PROFILE+VIEWS" alt="Profile Views" />
